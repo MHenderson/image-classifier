@@ -1,6 +1,4 @@
-## image-classifier
-
-https://somber-ossified-drum.glitch.me
+# image-classifier
 
 Based on an older Codelab (no longer available)?
 
